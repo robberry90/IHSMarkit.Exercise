@@ -1,1 +1,1 @@
-"# IHSMarkit.Exercise" 
+# IHSMarkit.Exercise: Cost Price Calculation Fundamentals
