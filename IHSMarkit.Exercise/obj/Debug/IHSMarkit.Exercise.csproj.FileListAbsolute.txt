@@ -1,0 +1,10 @@
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\bin\Debug\IHSMarkit.Exercise.exe.config
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\bin\Debug\IHSMarkit.Exercise.exe
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\bin\Debug\IHSMarkit.Exercise.pdb
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\obj\Debug\IHSMarkit.Exercise.csprojAssemblyReference.cache
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\obj\Debug\IHSMarkit.Exercise.Form1.resources
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\obj\Debug\IHSMarkit.Exercise.Properties.Resources.resources
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\obj\Debug\IHSMarkit.Exercise.csproj.GenerateResource.cache
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\obj\Debug\IHSMarkit.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\obj\Debug\IHSMarkit.Exercise.exe
+C:\Users\alter\source\repos\IHSMarkit.Exercise\IHSMarkit.Exercise\obj\Debug\IHSMarkit.Exercise.pdb
